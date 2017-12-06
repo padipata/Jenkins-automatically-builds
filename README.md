@@ -75,7 +75,6 @@
 
 * 打开 cmd 输入 `npm install -g cnpm --registry=http://registry.npm.taobao.org`
 <br/>
-<br/>
 
 ---
 > 配置到这里，我们对 test 项目点击构建即可。构建成功后打开工作空间，就会发现里面我们想要的 dist 文件夹以及 index.html 文件
@@ -105,6 +104,8 @@
 ### 配置 Nginx 环境
 > 后续补上~
 
+
+<br/>
 
 ## 小结
 
